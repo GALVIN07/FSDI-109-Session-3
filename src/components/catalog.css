@@ -1,0 +1,19 @@
+
+
+.catalog{ 
+    border: dotted #d16ca7 1vw;
+    margin: 0 auto 0 auto;
+    padding: 5vw ;
+    position: relative; 
+}
+
+
+.catalog .item{
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 60px;
+}
+
+.catalog .filters{
+    margin-left: 5px auto;
+}

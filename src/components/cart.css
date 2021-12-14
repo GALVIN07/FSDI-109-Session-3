@@ -1,0 +1,14 @@
+.cart-page {
+    height: calc(100vh - 58px);
+}
+.cart-page .cart-content {
+    display: flex;
+}
+.cart-page .cart-content .list {
+    flex: 3;
+    padding: 0 5px 0 20px;
+}
+.cart-page .cart-content .total-content {
+    flex: 1;
+    padding: 0 30px 0 35px;
+}

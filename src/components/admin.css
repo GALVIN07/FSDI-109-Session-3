@@ -1,0 +1,25 @@
+.capture-product{
+    border: dotted #d16ca7 1vw;
+    margin: 0 auto 0 auto;
+    padding: 5vw ;
+    position:relative; 
+}
+
+
+.admin-page .my-control {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 70px;
+}
+
+.admin-page .my-control label {
+    display: inline-block;
+    text-align: right;
+    width: 120px;
+    padding: .5rem .8rem .5rem .8rem;
+    margin: .9vw 0 ;
+    border:0;
+    border-radius: 5px;
+    font-size: 20px;
+}
